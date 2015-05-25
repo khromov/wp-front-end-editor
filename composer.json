@@ -1,0 +1,7 @@
+{
+  "name": "aftonbladet/wp-front-end-editor",
+  "description": "",
+  "keywords": ["wordpress"],
+  "license": "proprietary",
+  "type": "wordpress-plugin"
+}
